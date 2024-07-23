@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am studying the second years at KMUTNB Mathematics with Computer Science Age : 19
+I am studying the second years at KMUTNB Mathematics with Computer Science
+I was born in 2005
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [Joalotof@gmail.com](mailto:Joalotof@gmail.com)
